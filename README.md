@@ -73,6 +73,9 @@ The dataset is sourced from Kaggle's Dog Breed Identification competition:
 
 ### 📷 Sample Output
 
+![Sample Output](Epoch_Accuracy.png)
+---
+![Sample Output](Prediction_Accuracy.png)
 
 
 ---
