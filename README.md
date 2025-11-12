@@ -1,8 +1,4 @@
-# Dog-Breed-Classifier
-Dog breed classification using deep learning (TensorFlow &amp; TF Hub)
-Here’s a clean and professional `README.md` for your **Dog Vision** project on GitHub:
 
----
 
 ## 🐶 Dog Vision: Dog Breed Classification with Deep Learning
 
